@@ -1,0 +1,12 @@
+#jumbotron{
+    background-color:navy;
+    color: white;
+}
+#messageTitle{
+    text-align: center;
+    border-bottom: solid black 2px;
+}
+#helpTitle{
+    text-align: center;
+    border-bottom: solid black 2px;
+}
